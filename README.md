@@ -40,7 +40,7 @@ Aplicação em Python + Streamlit para análise de dados de produção agrícola
 Painel desenvolvido para monitoramento de entregas e controle de suprimentos com gráficos interativos e filtros dinâmicos.
 🔗 *[Link do projeto](https://github.com/sergioluisal/dashboard-suprimentos)*
 
-### 📉 Previsão de Sprimentos
+### 📉 Previsão de Suprimentos
 Modelo de regressão criado com Python e Scikit-learn para previsão de vendas semanais com base em dados históricos.
 🔗 *[Link do projeto](https://github.com/sergioluisal/previsao-suprimentos)*
 
