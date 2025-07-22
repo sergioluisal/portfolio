@@ -61,7 +61,7 @@ Responsável pela liderança técnica, coordenação e apresentação do pitch.
 ## 💼 Experiência Profissional
 
 ### **SIMPRESS COMÉRCIO E LOCAÇÃO**  
-📅 *ago/2022 – atual*  
+📅 *jul/2019 – atual*  
 **Supervisor de Serviços e Equipe**  
 - Gestão de outsourcing de impressão para grandes clientes como Magazine Luiza, Electrolux, Rodonaves, Eletrobras e Hapvida (cobertura de +6 mil equipamentos).  
 - Coordenação de equipe técnica (6 colaboradores), com foco em melhoria de atendimento N1/N2, atingindo 97% dos SLAs.  
@@ -88,7 +88,7 @@ Responsável pela liderança técnica, coordenação e apresentação do pitch.
 
 - 🎓 **Tecnólogo em Redes de Computadores** – REGES Ribeirão Preto (2018)
 - 🎓 **MBA em Gestão de Pessoas e Planejamento Empresarial** – Faculdade Serra Geral (2022)
-- 🎓 **MBA em Ciência de Dados** – Universidade de São Paulo (em andamento – conclusão em abr/2026)
+- 🎓 **MBA em Ciência de Dados** – Universidade de São Paulo (em andamento – conclusão em jan/2026)
 
 ---
 
