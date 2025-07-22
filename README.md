@@ -54,7 +54,7 @@ Melhoria na padronização dos atendimentos e aumento de performance.
 Participei do HackRibeirão 2018, liderando uma equipe multidisciplinar no desenvolvimento de uma solução digital para o setor público.
 2º lugar geral entre as equipes participantes
 Responsável pela liderança técnica, coordenação e apresentação do pitch.
-🔗 *[Link do projeto](https://github.com/sergioluisal/Hackathon)*
+🔗 *[Link do projeto](https://hackribeirao-5373.devpost.com/)*
 
 ---
 
