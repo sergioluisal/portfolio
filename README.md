@@ -43,7 +43,7 @@ Painel desenvolvido para monitoramento de entregas e controle de suprimentos com
 🔗 *[Link do Dashboard](https://dashboard-atendimento-fzkhepj9unk9xcbzzbqtih.streamlit.app/)*
 
 ### 📉 Análise de Previsão Suprimentos
-Modelo de regressão criado com Python e Scikit-learn para previsão de vendas semanais com base em dados históricos.
+Modelo de regressão criado com Python e Scikit-learn para previsão de vendas semanais com base em dados históricos.                                 
 🔗 *[Link do projeto](https://github.com/sergioluisal/dashboard-suprimentos )*
 🔗 *[Link do Dashboard](https://dashboard-suprimentos-bvs953aamyzqewp5x8jja9.streamlit.app/)*
 
@@ -55,7 +55,7 @@ Melhoria na padronização dos atendimentos e aumento de performance.
 ### 🥈 Participação no Hackathon Ribeirão Preto – 2018
 Participei do HackRibeirão 2018, liderando uma equipe multidisciplinar no desenvolvimento de uma solução digital para o setor público.
 2º lugar geral entre as equipes participantes
-Responsável pela liderança técnica, coordenação e apresentação do pitch.
+Responsável pela liderança técnica, coordenação e apresentação do pitch.                                                                             
 🔗 *[Link do projeto](https://hackribeirao-5373.devpost.com/)*
 
 ---
