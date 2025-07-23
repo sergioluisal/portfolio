@@ -38,17 +38,16 @@ Aplicação em Python + Streamlit para análise de dados de produção agrícola
 
 ### 📊 Análise de Atendimento Técnico
 Painel desenvolvido para monitoramento de entregas e controle de suprimentos com gráficos interativos e filtros dinâmicos.
-🔗 *[Link do projeto](https://github.com/sergioluisal/dashboard-suprimentos)*
+🔗 *[Link do projeto](https://github.com/sergioluisal/dashboard-atendimento)*
 
 ### 📉 Análise de Previsão Suprimentos
 Modelo de regressão criado com Python e Scikit-learn para previsão de vendas semanais com base em dados históricos.
-🔗 *[Link do projeto](https://github.com/sergioluisal/previsao-suprimentos)*
+🔗 *[Link do projeto](https://github.com/sergioluisal/dashboard-suprimentos )*
 
 ### 🧑‍🏫 Treinamento de Equipe Técnica
 Desenvolvimento e aplicação de treinamento interno voltado à equipe de outsourcing, com foco no uso eficiente das ferramentas administrativas da companhia.
 Material estruturado e aplicado para times técnicos e administrativos.
 Melhoria na padronização dos atendimentos e aumento de performance.
-🔗 *[Link do projeto](https://github.com/sergioluisal/treinamento)*
 
 ### 🥈 Participação no Hackathon Ribeirão Preto – 2018
 Participei do HackRibeirão 2018, liderando uma equipe multidisciplinar no desenvolvimento de uma solução digital para o setor público.
@@ -63,7 +62,7 @@ Responsável pela liderança técnica, coordenação e apresentação do pitch.
 ### **SIMPRESS COMÉRCIO E LOCAÇÃO**  
 📅 *jul/2019 – atual*  
 **Supervisor de Serviços e Equipe**  
-- Gestão de outsourcing de impressão para grandes clientes como Magazine Luiza, Electrolux, Rodonaves, Eletrobras e Hapvida (cobertura de +6 mil equipamentos).  
+- Gestão de outsourcing de impressão para grandes clientes como Magazine Luiza, SEB, Electrolux, Rodonaves, Eletrobras e Hapvida (cobertura de +6 mil equipamentos).  
 - Coordenação de equipe técnica (6 colaboradores), com foco em melhoria de atendimento N1/N2, atingindo 97% dos SLAs.  
 - Elaboração de dashboards com indicadores e metas mensais.  
 - Implantação de planos de ação em conjunto com líderes e supervisores.
