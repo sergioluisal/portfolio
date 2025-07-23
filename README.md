@@ -35,14 +35,17 @@ Sou um profissional dinâmico, proativo e focado em resultados, com sólida expe
 ### 📈 Análise de Produção Agrícola
 Aplicação em Python + Streamlit para análise de dados de produção agrícola com foco em **estatística, visualizações e predição com Machine Learning**.
 🔗 *[Link do projeto](https://github.com/sergioluisal/producao-agricola)*
+🔗 *[Link do Dashboard](https://dashboard-suprimentos-bvs953aamyzqewp5x8jja9.streamlit.app/)*
 
 ### 📊 Análise de Atendimento Técnico
 Painel desenvolvido para monitoramento de entregas e controle de suprimentos com gráficos interativos e filtros dinâmicos.
 🔗 *[Link do projeto](https://github.com/sergioluisal/dashboard-atendimento)*
+🔗 *[Link do Dashboard](https://dashboard-atendimento-fzkhepj9unk9xcbzzbqtih.streamlit.app/)*
 
 ### 📉 Análise de Previsão Suprimentos
 Modelo de regressão criado com Python e Scikit-learn para previsão de vendas semanais com base em dados históricos.
 🔗 *[Link do projeto](https://github.com/sergioluisal/dashboard-suprimentos )*
+🔗 *[Link do Dashboard](https://dashboard-suprimentos-bvs953aamyzqewp5x8jja9.streamlit.app/)*
 
 ### 🧑‍🏫 Treinamento de Equipe Técnica
 Desenvolvimento e aplicação de treinamento interno voltado à equipe de outsourcing, com foco no uso eficiente das ferramentas administrativas da companhia.
