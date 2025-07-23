@@ -36,11 +36,11 @@ Sou um profissional dinâmico, proativo e focado em resultados, com sólida expe
 Aplicação em Python + Streamlit para análise de dados de produção agrícola com foco em **estatística, visualizações e predição com Machine Learning**.
 🔗 *[Link do projeto](https://github.com/sergioluisal/producao-agricola)*
 
-### 📊 Dashboard de Acompanhamento de Suprimentos
+### 📊 Análise de Atendimento Técnico
 Painel desenvolvido para monitoramento de entregas e controle de suprimentos com gráficos interativos e filtros dinâmicos.
 🔗 *[Link do projeto](https://github.com/sergioluisal/dashboard-suprimentos)*
 
-### 📉 Previsão de Suprimentos
+### 📉 Análise de Previsão Suprimentos
 Modelo de regressão criado com Python e Scikit-learn para previsão de vendas semanais com base em dados históricos.
 🔗 *[Link do projeto](https://github.com/sergioluisal/previsao-suprimentos)*
 
