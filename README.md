@@ -38,7 +38,7 @@ Aplicação em Python + Streamlit para análise de dados de produção agrícola
 🔗 *[Link do Dashboard](https://dashboard-suprimentos-bvs953aamyzqewp5x8jja9.streamlit.app/)*
 
 ### 📊 Análise de Atendimento Técnico
-Painel desenvolvido para monitoramento de entregas e controle de suprimentos com gráficos interativos e filtros dinâmicos.
+Painel desenvolvido para monitoramento de entregas e controle de suprimentos com gráficos interativos e filtros dinâmicos.                           
 🔗 *[Link do projeto](https://github.com/sergioluisal/dashboard-atendimento)*
 🔗 *[Link do Dashboard](https://dashboard-atendimento-fzkhepj9unk9xcbzzbqtih.streamlit.app/)*
 
