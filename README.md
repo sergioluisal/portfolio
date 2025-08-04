@@ -91,6 +91,7 @@ Responsável pela liderança técnica, coordenação e apresentação do pitch.
 - 🎓 **Tecnólogo em Redes de Computadores** – REGES Ribeirão Preto (2018)
 - 🎓 **MBA em Gestão de Pessoas e Planejamento Empresarial** – Faculdade Serra Geral (2022)
 - 🎓 **MBA em Ciência de Dados** – Universidade de São Paulo (em andamento – conclusão em jan/2026)
+- 🎓 **Licenciatura em Letras - Língua Portuguesa** – Faculdade IBRA (em andamento – conclusão em ago/2026)
 
 ---
 
