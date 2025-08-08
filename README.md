@@ -35,7 +35,7 @@ Sou um profissional dinâmico, proativo e focado em resultados, com sólida expe
 ### 📈 Análise de Produção Agrícola
 Aplicação em Python + Streamlit para análise de dados de produção agrícola com foco em **estatística, visualizações e predição com Machine Learning**.    
 🔗 *[Link do projeto](https://github.com/sergioluisal/producao-agricola)*
-🔗 *[Link do Dashboard](https://appucao-agricola-b8rewtscw4dappfa5clrfcp.streamlit.app//)*
+🔗 *[Link do Dashboard](https://appucaoagricolademostrativo-2zrbpreeoafdlmscbpeoqf.streamlit.app/)*
 
 ### 📊 Análise de Atendimento Técnico
 Painel desenvolvido para monitoramento de entregas e controle de suprimentos com gráficos interativos e filtros dinâmicos.                           
