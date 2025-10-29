@@ -32,6 +32,10 @@ Sou um profissional dinâmico, proativo e focado em resultados, com sólida expe
 
 ## 📂 Projetos
 
+### 📈 Análise geral da situação de alunos e programas
+Aplicação em Python + render para análise de dados dos alunos de pós-graduação EERP **estatística, visualizações e filtors dinâmicos**.    
+🔗 *[Link do Dashboard](https://dashboard-advanced.onrender.com/)*
+
 ### 📈 Análise de Produção Agrícola
 Aplicação em Python + Streamlit para análise de dados de produção agrícola com foco em **estatística, visualizações e predição com Machine Learning**.    
 🔗 *[Link do projeto](https://github.com/sergioluisal/producao-agricola)*
