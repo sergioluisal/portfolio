@@ -33,7 +33,7 @@ Sou um profissional dinâmico, proativo e focado em resultados, com sólida expe
 ## 📂 Projetos
 
 ### 📈 Análise geral da situação de alunos e programas
-Aplicação em Python + render para análise de dados dos alunos de pós-graduação EERP, com interação **gráficas, estatísticas e com filtros dinâmicos**.    
+Aplicação em Python + render para análise de dados dos alunos de pós-graduação EERP, com interações **gráficas, estatísticas e com filtros dinâmicos**.    
 🔗 *[Link do Dashboard](https://dashboard-advanced.onrender.com/)*
 
 ### 📈 Análise de Produção Agrícola
